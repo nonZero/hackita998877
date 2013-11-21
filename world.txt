@@ -1,10 +1,10 @@
 Hello!
 Hello!
 Hello!
+Goodbye!
 Hello!
+Goodbye!
 Hello!
-Hello!
-Hello!
-Hello!
+Goodbye!
 Hello!
 Hello!
